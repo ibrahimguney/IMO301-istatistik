@@ -1,10 +1,10 @@
-# Temel İstatistik — Öğrenci Laboratuvarı
+# İstatistik — Öğrenci Laboratuvarı
 
 **Prof. Dr. İbrahim Güney · PDR 209**  
 *Temel İstatistik: PDR Araştırmaları İçin Veri Okuryazarlığı* ders kitabının 14 bölümüne eşlik eden çalışma alanı.
 
 **Öğrenci adresi (GitHub Pages etkinleştirildikten sonra):**  
-https://ibrahimguney.github.io/temelistatistik/
+https://ibrahimguney.github.io/IMO301-istatistik/
 
 Öğrenci önce araştırma sorusunu belirler, veriyi inceler, yöntemi uygular ve sonucu bağlam içinde raporlar. Hazır veriler ve hesaplama kütüphanesi depoda bulunur. Tarayıcıda çalışan laboratuvar için hesap, R kurulumu veya ücretli analiz yazılımı gerekmez.
 
