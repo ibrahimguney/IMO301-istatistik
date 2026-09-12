@@ -1,7 +1,7 @@
 # İstatistik — Öğrenci Laboratuvarı
 
-**Prof. Dr. İbrahim Güney · PDR 209**  
-*Temel İstatistik: PDR Araştırmaları İçin Veri Okuryazarlığı* ders kitabının 14 bölümüne eşlik eden çalışma alanı.
+**Prof. Dr. İbrahim Güney · IMO 301**  
+*İstatistik: Eğitim Araştırmaları İçin Veri Okuryazarlığı* ders kitabının 14 bölümüne eşlik eden çalışma alanı.
 
 **Öğrenci adresi (GitHub Pages etkinleştirildikten sonra):**  
 https://ibrahimguney.github.io/IMO301-istatistik/
